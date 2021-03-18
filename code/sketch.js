@@ -33,7 +33,7 @@ function draw() {
 
     image(video, 0,0);
     rect(0,0,640,480)
-fill("rgb(255, 25, 100)")
+    fill("rgb(162, 0, 0)")
 
     
     if (flow.zones) {
